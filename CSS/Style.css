@@ -1,0 +1,36 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+ }
+.navegacion{
+    justify-content: right;
+}
+h1{
+    color: #113c82;
+   font-size: xx-large;
+}
+h2{
+    color: royalblue;
+}
+h3{
+    color: #113c82;
+}
+a{
+color: #515e73;
+font-size: medium;
+text-align: right;
+}
+p{
+    color: dimgrey;
+}
+.container1{
+justify-content: left;
+}
+.imagen{
+display: flex;
+justify-content: center;
+margin: auto;
+align-items: unset;
+height: 60px;
+opacity: 0.3;
+}
